@@ -1,22 +1,28 @@
 <application>
   <component name="ProjectJdkTable">
     <jdk version="2">
-      <name value="Python 3.6" />
+      <name value="Python 2.7" />
       <type value="Python SDK" />
-      <homePath value="/usr/bin/python3.6" />
+      <version value="Python 2.7.16" />
+      <homePath value="/usr/bin/python2.7" />
       <roots>
         <classPath>
           <root type="composite">
-            <root url="file:///usr/lib/python3.6" type="simple" />
-            <root url="file:///usr/lib/python3.6/lib-dynload" type="simple" />
-            <root url="file:///usr/local/lib/python3.6/dist-packages" type="simple" />
-            <root url="file:///usr/lib/python3/dist-packages" type="simple" />
-            <root url="file://$USER_HOME$/.PyCharmCE2018.3/system/python_stubs/-1247971763" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+            <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7" type="simple" />
+            <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" type="simple" />
+            <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" type="simple" />
+            <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" type="simple" />
+            <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk" type="simple" />
+            <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-dynload" type="simple" />
+            <root url="file:///Library/Python/2.7/site-packages" type="simple" />
+            <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python" type="simple" />
+            <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python/PyObjC" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharmCE2019.3/python_stubs/-1247972723" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2and3" type="simple" />
           </root>
         </classPath>
         <sourcePath>
@@ -26,52 +32,394 @@
       <additional />
     </jdk>
     <jdk version="2">
-      <name value="Python 3.6 (base_python_env)" />
+      <name value="Python 3.6 (gi_analysis)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.9" />
+      <homePath value="/opt/miniconda3/envs/gi_analysis/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///opt/miniconda3/envs/gi_analysis/lib/python3.6" type="simple" />
+            <root url="file:///opt/miniconda3/envs/gi_analysis/lib/python3.6/lib-dynload" type="simple" />
+            <root url="file:///opt/miniconda3/envs/gi_analysis/lib/python3.6/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/repos/gi_shap" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharmCE2019.3/python_stubs/-197256694" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/repos/mripython" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7 (flow)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.17" />
+      <homePath value="/opt/miniconda3/envs/flow/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///opt/miniconda3/envs/flow/lib/python2.7" type="simple" />
+            <root url="file:///opt/miniconda3/envs/flow/lib/python2.7/plat-darwin" type="simple" />
+            <root url="file:///opt/miniconda3/envs/flow/lib/python2.7/plat-mac" type="simple" />
+            <root url="file:///opt/miniconda3/envs/flow/lib/python2.7/plat-mac/lib-scriptpackages" type="simple" />
+            <root url="file:///opt/miniconda3/envs/flow/lib/python2.7/lib-tk" type="simple" />
+            <root url="file:///opt/miniconda3/envs/flow/lib/python2.7/lib-dynload" type="simple" />
+            <root url="file:///opt/miniconda3/envs/flow/lib/python2.7/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharmCE2019.3/python_stubs/-1199297675" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/repos" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6 (feature_definition)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.9" />
+      <homePath value="/opt/miniconda3/envs/feature_definition/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///opt/miniconda3/envs/feature_definition/lib/python3.6" type="simple" />
+            <root url="file:///opt/miniconda3/envs/feature_definition/lib/python3.6/lib-dynload" type="simple" />
+            <root url="file:///opt/miniconda3/envs/feature_definition/lib/python3.6/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharmCE2019.3/python_stubs/1483850151" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/repos/gi_feature_definitions" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6 (mario)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.10" />
+      <homePath value="/opt/miniconda3/envs/mario/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///opt/miniconda3/envs/mario/lib/python3.6" type="simple" />
+            <root url="file:///opt/miniconda3/envs/mario/lib/python3.6/lib-dynload" type="simple" />
+            <root url="file:///opt/miniconda3/envs/mario/lib/python3.6/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharmCE2019.3/python_stubs/57044927" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/repos" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6 (asdic)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.10" />
+      <homePath value="/opt/miniconda3/envs/asdic/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///opt/miniconda3/envs/asdic/lib/python3.6" type="simple" />
+            <root url="file:///opt/miniconda3/envs/asdic/lib/python3.6/lib-dynload" type="simple" />
+            <root url="file:///opt/miniconda3/envs/asdic/lib/python3.6/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharmCE2019.3/python_stubs/193510071" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/repos/asdic" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6 (gi_analysis_clean)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.10" />
+      <homePath value="/opt/miniconda3/envs/gi_analysis_clean/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///opt/miniconda3/envs/gi_analysis_clean/lib/python3.6" type="simple" />
+            <root url="file:///opt/miniconda3/envs/gi_analysis_clean/lib/python3.6/lib-dynload" type="simple" />
+            <root url="file:///opt/miniconda3/envs/gi_analysis_clean/lib/python3.6/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/repos/mripython" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharmCE2019.3/python_stubs/463063360" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6 (master_models)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.10" />
+      <homePath value="/opt/miniconda3/envs/master_models/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///opt/miniconda3/envs/master_models/lib/python3.6" type="simple" />
+            <root url="file:///opt/miniconda3/envs/master_models/lib/python3.6/lib-dynload" type="simple" />
+            <root url="file:///opt/miniconda3/envs/master_models/lib/python3.6/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharmCE2019.3/python_stubs/-1542755332" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/repos/master_models" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6 (master_docs)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.10" />
+      <homePath value="/opt/miniconda3/envs/master_docs/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///opt/miniconda3/envs/master_docs/lib/python3.6" type="simple" />
+            <root url="file:///opt/miniconda3/envs/master_docs/lib/python3.6/lib-dynload" type="simple" />
+            <root url="file:///opt/miniconda3/envs/master_docs/lib/python3.6/site-packages" type="simple" />
+            <root url="file:///opt/miniconda3/envs/master_docs/lib/python3.6/site-packages/gi_python-0.8-py3.6.egg" type="simple" />
+            <root url="file:///opt/miniconda3/envs/master_docs/lib/python3.6/site-packages/more_itertools-8.1.0-py3.6.egg" type="simple" />
+            <root url="file:///opt/miniconda3/envs/master_docs/lib/python3.6/site-packages/typing-3.7.4.1-py3.6.egg" type="simple" />
+            <root url="jar:///opt/miniconda3/envs/master_docs/lib/python3.6/site-packages/pathlib-1.0.1-py3.6.egg!/" type="simple" />
+            <root url="jar:///opt/miniconda3/envs/master_docs/lib/python3.6/site-packages/gi_fs-1.1.5-py3.6.egg!/" type="simple" />
+            <root url="file:///opt/miniconda3/envs/master_docs/lib/python3.6/site-packages/moto-1.3.7-py3.6.egg" type="simple" />
+            <root url="file:///opt/miniconda3/envs/master_docs/lib/python3.6/site-packages/python_dateutil-2.8.0-py3.6.egg" type="simple" />
+            <root url="file:///opt/miniconda3/envs/master_docs/lib/python3.6/site-packages/s3fs-0.0.9-py3.6.egg" type="simple" />
+            <root url="file:///opt/miniconda3/envs/master_docs/lib/python3.6/site-packages/smart_open-1.8.3-py3.6.egg" type="simple" />
+            <root url="file:///opt/miniconda3/envs/master_docs/lib/python3.6/site-packages/xmltodict-0.12.0-py3.6.egg" type="simple" />
+            <root url="file:///opt/miniconda3/envs/master_docs/lib/python3.6/site-packages/Werkzeug-0.16.0-py3.6.egg" type="simple" />
+            <root url="file:///opt/miniconda3/envs/master_docs/lib/python3.6/site-packages/six-1.14.0-py3.6.egg" type="simple" />
+            <root url="file:///opt/miniconda3/envs/master_docs/lib/python3.6/site-packages/responses-0.10.9-py3.6.egg" type="simple" />
+            <root url="file:///opt/miniconda3/envs/master_docs/lib/python3.6/site-packages/requests-2.22.0-py3.6.egg" type="simple" />
+            <root url="file:///opt/miniconda3/envs/master_docs/lib/python3.6/site-packages/pytz-2019.3-py3.6.egg" type="simple" />
+            <root url="file:///opt/miniconda3/envs/master_docs/lib/python3.6/site-packages/python_jose-2.0.2-py3.6.egg" type="simple" />
+            <root url="file:///opt/miniconda3/envs/master_docs/lib/python3.6/site-packages/pyaml-19.12.0-py3.6.egg" type="simple" />
+            <root url="file:///opt/miniconda3/envs/master_docs/lib/python3.6/site-packages/mock-3.0.5-py3.6.egg" type="simple" />
+            <root url="jar:///opt/miniconda3/envs/master_docs/lib/python3.6/site-packages/jsondiff-1.1.1-py3.6.egg!/" type="simple" />
+            <root url="file:///opt/miniconda3/envs/master_docs/lib/python3.6/site-packages/docker-4.1.0-py3.6.egg" type="simple" />
+            <root url="file:///opt/miniconda3/envs/master_docs/lib/python3.6/site-packages/cryptography-2.8-py3.6-macosx-10.9-x86_64.egg" type="simple" />
+            <root url="file:///opt/miniconda3/envs/master_docs/lib/python3.6/site-packages/botocore-1.14.6-py3.6.egg" type="simple" />
+            <root url="file:///opt/miniconda3/envs/master_docs/lib/python3.6/site-packages/boto-2.49.0-py3.6.egg" type="simple" />
+            <root url="file:///opt/miniconda3/envs/master_docs/lib/python3.6/site-packages/boto3-1.11.6-py3.6.egg" type="simple" />
+            <root url="file:///opt/miniconda3/envs/master_docs/lib/python3.6/site-packages/aws_xray_sdk-0.95-py3.6.egg" type="simple" />
+            <root url="file:///opt/miniconda3/envs/master_docs/lib/python3.6/site-packages/Jinja2-2.10.3-py3.6.egg" type="simple" />
+            <root url="file:///opt/miniconda3/envs/master_docs/lib/python3.6/site-packages/urllib3-1.25.7-py3.6.egg" type="simple" />
+            <root url="file:///opt/miniconda3/envs/master_docs/lib/python3.6/site-packages/idna-2.8-py3.6.egg" type="simple" />
+            <root url="file:///opt/miniconda3/envs/master_docs/lib/python3.6/site-packages/chardet-3.0.4-py3.6.egg" type="simple" />
+            <root url="file:///opt/miniconda3/envs/master_docs/lib/python3.6/site-packages/pycryptodome-3.9.4-py3.6-macosx-10.9-x86_64.egg" type="simple" />
+            <root url="file:///opt/miniconda3/envs/master_docs/lib/python3.6/site-packages/future-0.18.2-py3.6.egg" type="simple" />
+            <root url="file:///opt/miniconda3/envs/master_docs/lib/python3.6/site-packages/ecdsa-0.15-py3.6.egg" type="simple" />
+            <root url="jar:///opt/miniconda3/envs/master_docs/lib/python3.6/site-packages/PyYAML-5.3-py3.6-macosx-10.9-x86_64.egg!/" type="simple" />
+            <root url="file:///opt/miniconda3/envs/master_docs/lib/python3.6/site-packages/websocket_client-0.57.0-py3.6.egg" type="simple" />
+            <root url="file:///opt/miniconda3/envs/master_docs/lib/python3.6/site-packages/cffi-1.13.2-py3.6-macosx-10.9-x86_64.egg" type="simple" />
+            <root url="file:///opt/miniconda3/envs/master_docs/lib/python3.6/site-packages/jmespath-0.9.4-py3.6.egg" type="simple" />
+            <root url="file:///opt/miniconda3/envs/master_docs/lib/python3.6/site-packages/docutils-0.15.2-py3.6.egg" type="simple" />
+            <root url="file:///opt/miniconda3/envs/master_docs/lib/python3.6/site-packages/s3transfer-0.3.1-py3.6.egg" type="simple" />
+            <root url="file:///opt/miniconda3/envs/master_docs/lib/python3.6/site-packages/wrapt-1.11.2-py3.6-macosx-10.9-x86_64.egg" type="simple" />
+            <root url="file:///opt/miniconda3/envs/master_docs/lib/python3.6/site-packages/jsonpickle-1.2-py3.6.egg" type="simple" />
+            <root url="file:///opt/miniconda3/envs/master_docs/lib/python3.6/site-packages/MarkupSafe-1.1.1-py3.6-macosx-10.9-x86_64.egg" type="simple" />
+            <root url="file:///opt/miniconda3/envs/master_docs/lib/python3.6/site-packages/pycparser-2.19-py3.6.egg" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharmCE2019.3/python_stubs/-1827123125" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/repos/master-docs" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6 (gi_shap)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.10" />
+      <homePath value="/opt/miniconda3/envs/gi_shap/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///opt/miniconda3/envs/gi_shap/lib/python3.6" type="simple" />
+            <root url="file:///opt/miniconda3/envs/gi_shap/lib/python3.6/lib-dynload" type="simple" />
+            <root url="file:///opt/miniconda3/envs/gi_shap/lib/python3.6/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/repos/gi_shap" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharmCE2019.3/python_stubs/-1904745438" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/repos/gi_shap" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6 (gi_analysis_i)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.10" />
+      <homePath value="/opt/miniconda3/envs/gi_analysis_i/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///opt/miniconda3/envs/gi_analysis_i/lib/python3.6" type="simple" />
+            <root url="file:///opt/miniconda3/envs/gi_analysis_i/lib/python3.6/lib-dynload" type="simple" />
+            <root url="file:///opt/miniconda3/envs/gi_analysis_i/lib/python3.6/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/repos/mripython" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharmCE2019.3/python_stubs/328910368" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/repos" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6 (yoshi)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.10" />
+      <homePath value="/opt/miniconda3/envs/yoshi/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///opt/miniconda3/envs/yoshi/lib/python3.6" type="simple" />
+            <root url="file:///opt/miniconda3/envs/yoshi/lib/python3.6/lib-dynload" type="simple" />
+            <root url="file:///opt/miniconda3/envs/yoshi/lib/python3.6/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharmCE2019.3/python_stubs/1164806309" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/repos/yoshi" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6 (metal_mario)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.10" />
+      <homePath value="/opt/miniconda3/envs/metal_mario/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///opt/miniconda3/envs/metal_mario/lib/python3.6" type="simple" />
+            <root url="file:///opt/miniconda3/envs/metal_mario/lib/python3.6/lib-dynload" type="simple" />
+            <root url="file:///opt/miniconda3/envs/metal_mario/lib/python3.6/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharmCE2019.3/python_stubs/858210807" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/repos/metal_mario" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6 (gi_shap_jupy)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.10" />
+      <homePath value="/opt/miniconda3/envs/gi_shap_jupy/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///opt/miniconda3/envs/gi_shap_jupy/lib/python3.6" type="simple" />
+            <root url="file:///opt/miniconda3/envs/gi_shap_jupy/lib/python3.6/lib-dynload" type="simple" />
+            <root url="file:///opt/miniconda3/envs/gi_shap_jupy/lib/python3.6/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/repos/mripython" type="simple" />
+            <root url="file://$USER_HOME$/repos/gi_shap" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharmCE2019.3/python_stubs/373006993" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/repos/external/shap" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (base_python)" />
       <type value="Python SDK" />
       <version value="Python 3.7.5" />
-      <homePath value="$USER_HOME$/Documents/python_envs/base_python_env/bin/python" />
+      <homePath value="/opt/miniconda3/envs/base_python/bin/python" />
       <roots>
         <classPath>
           <root type="composite">
-            <root url="file:///usr/lib/python3.7" type="simple" />
-            <root url="file:///usr/lib/python3.7/lib-dynload" type="simple" />
-            <root url="file://$USER_HOME$/Documents/python_envs/base_python_env/lib/python3.7/site-packages" type="simple" />
-            <root url="file://$USER_HOME$/Documents/python_envs/base_python_env/lib/python3.7/site-packages/xgboost-0.90-py3.7-linux-x86_64.egg" type="simple" />
-            <root url="file://$USER_HOME$/Documents/python_envs/base_python_env/lib/python3.7/site-packages/wordcloud-1.5.0-py3.7-linux-x86_64.egg" type="simple" />
-            <root url="file://$USER_HOME$/Documents/python_envs/base_python_env/lib/python3.7/site-packages/tqdm-4.32.2-py3.7.egg" type="simple" />
-            <root url="file://$USER_HOME$/Documents/python_envs/base_python_env/lib/python3.7/site-packages/SQLAlchemy-1.3.5-py3.7-linux-x86_64.egg" type="simple" />
-            <root url="file://$USER_HOME$/Documents/python_envs/base_python_env/lib/python3.7/site-packages/seaborn-0.9.0-py3.7.egg" type="simple" />
-            <root url="file://$USER_HOME$/Documents/python_envs/base_python_env/lib/python3.7/site-packages/scikit_learn-0.21.2-py3.7-linux-x86_64.egg" type="simple" />
-            <root url="file://$USER_HOME$/Documents/python_envs/base_python_env/lib/python3.7/site-packages/spacy-2.2.1-py3.7-linux-x86_64.egg" type="simple" />
-            <root url="file://$USER_HOME$/Documents/python_envs/base_python_env/lib/python3.7/site-packages/psycopg2-2.8.3-py3.7-linux-x86_64.egg" type="simple" />
-            <root url="file://$USER_HOME$/Documents/python_envs/base_python_env/lib/python3.7/site-packages/praw-6.4.0-py3.7.egg" type="simple" />
-            <root url="file://$USER_HOME$/Documents/python_envs/base_python_env/lib/python3.7/site-packages/nltk-3.4.5-py3.7.egg" type="simple" />
-            <root url="file://$USER_HOME$/Documents/python_envs/base_python_env/lib/python3.7/site-packages/matplotlib-3.1.1-py3.7-linux-x86_64.egg" type="simple" />
-            <root url="file://$USER_HOME$/Documents/python_envs/base_python_env/lib/python3.7/site-packages/lightgbm-2.3.0-py3.7-linux-x86_64.egg" type="simple" />
-            <root url="file://$USER_HOME$/Documents/python_envs/base_python_env/lib/python3.7/site-packages/joblib-0.14.0-py3.7.egg" type="simple" />
-            <root url="file://$USER_HOME$/Documents/python_envs/base_python_env/lib/python3.7/site-packages/coverage-5.0a8-py3.7-linux-x86_64.egg" type="simple" />
-            <root url="jar://$USER_HOME$/Documents/python_envs/base_python_env/lib/python3.7/site-packages/bs4-0.0.1-py3.7.egg!/" type="simple" />
-            <root url="file://$USER_HOME$/Documents/python_envs/base_python_env/lib/python3.7/site-packages/scipy-1.3.1-py3.7-linux-x86_64.egg" type="simple" />
-            <root url="file://$USER_HOME$/Documents/python_envs/base_python_env/lib/python3.7/site-packages/Pillow-6.2.0-py3.7-linux-x86_64.egg" type="simple" />
-            <root url="file://$USER_HOME$/Documents/python_envs/base_python_env/lib/python3.7/site-packages/wasabi-0.2.2-py3.7.egg" type="simple" />
-            <root url="file://$USER_HOME$/Documents/python_envs/base_python_env/lib/python3.7/site-packages/thinc-7.1.1-py3.7-linux-x86_64.egg" type="simple" />
-            <root url="file://$USER_HOME$/Documents/python_envs/base_python_env/lib/python3.7/site-packages/srsly-0.1.0-py3.7-linux-x86_64.egg" type="simple" />
-            <root url="file://$USER_HOME$/Documents/python_envs/base_python_env/lib/python3.7/site-packages/preshed-3.0.2-py3.7-linux-x86_64.egg" type="simple" />
-            <root url="file://$USER_HOME$/Documents/python_envs/base_python_env/lib/python3.7/site-packages/plac-0.9.6-py3.7.egg" type="simple" />
-            <root url="file://$USER_HOME$/Documents/python_envs/base_python_env/lib/python3.7/site-packages/murmurhash-1.0.2-py3.7-linux-x86_64.egg" type="simple" />
-            <root url="file://$USER_HOME$/Documents/python_envs/base_python_env/lib/python3.7/site-packages/cymem-2.0.2-py3.7-linux-x86_64.egg" type="simple" />
-            <root url="file://$USER_HOME$/Documents/python_envs/base_python_env/lib/python3.7/site-packages/blis-0.4.1-py3.7-linux-x86_64.egg" type="simple" />
-            <root url="file://$USER_HOME$/Documents/python_envs/base_python_env/lib/python3.7/site-packages/websocket_client-0.56.0-py3.7.egg" type="simple" />
-            <root url="file://$USER_HOME$/Documents/python_envs/base_python_env/lib/python3.7/site-packages/update_checker-0.16-py3.7.egg" type="simple" />
-            <root url="file://$USER_HOME$/Documents/python_envs/base_python_env/lib/python3.7/site-packages/prawcore-1.0.1-py3.7.egg" type="simple" />
-            <root url="file://$USER_HOME$/Documents/python_envs/base_python_env/lib/python3.7/site-packages/pyparsing-2.4.2-py3.7.egg" type="simple" />
-            <root url="file://$USER_HOME$/Documents/python_envs/base_python_env/lib/python3.7/site-packages/kiwisolver-1.1.0-py3.7-linux-x86_64.egg" type="simple" />
-            <root url="file://$USER_HOME$/Documents/python_envs/base_python_env/lib/python3.7/site-packages/cycler-0.10.0-py3.7.egg" type="simple" />
-            <root url="file://$USER_HOME$/Documents/python_envs/base_python_env/lib/python3.7/site-packages/beautifulsoup4-4.8.1-py3.7.egg" type="simple" />
-            <root url="file://$USER_HOME$/Documents/python_envs/base_python_env/lib/python3.7/site-packages/soupsieve-1.9.4-py3.7.egg" type="simple" />
-            <root url="jar://$USER_HOME$/Documents/python_envs/base_python_env/lib/python3.7/site-packages/rshanker779_common-1.0.0-py3.7.egg!/" type="simple" />
-            <root url="file://$USER_HOME$/Documents/python_envs/base_python_env/lib/python3.7/site-packages/python_files-1.0.0-py3.7.egg" type="simple" />
-            <root url="file://$USER_HOME$/.PyCharmCE2019.3/system/python_stubs/396016176" type="simple" />
+            <root url="file:///opt/miniconda3/envs/base_python/lib/python3.7" type="simple" />
+            <root url="file:///opt/miniconda3/envs/base_python/lib/python3.7/lib-dynload" type="simple" />
+            <root url="file:///opt/miniconda3/envs/base_python/lib/python3.7/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharmCE2019.3/python_stubs/-490650375" type="simple" />
             <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
             <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3" type="simple" />
             <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2and3" type="simple" />
@@ -83,171 +431,20 @@
           <root type="composite" />
         </sourcePath>
       </roots>
-      <additional />
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/repos/rohan" />
     </jdk>
     <jdk version="2">
-      <name value="Python 3.6 (conway_venv)" />
+      <name value="Python 3.6 (gi_python)" />
       <type value="Python SDK" />
-      <version value="Python 3.6.7" />
-      <homePath value="$USER_HOME$/Documents/python_envs/conway_venv/bin/python3" />
+      <version value="Python 3.6.10" />
+      <homePath value="/opt/miniconda3/envs/gi_python/bin/python" />
       <roots>
         <classPath>
           <root type="composite">
-            <root url="file:///usr/lib/python3.6" type="simple" />
-            <root url="file:///usr/lib/python3.6/lib-dynload" type="simple" />
-            <root url="file://$USER_HOME$/Documents/python_envs/conway_venv/lib/python3.6/site-packages" type="simple" />
-            <root url="file://$USER_HOME$/Documents/python_envs/conway_venv/lib/python3.6/site-packages/matplotlib-3.0.2-py3.6-linux-x86_64.egg" type="simple" />
-            <root url="file://$USER_HOME$/Documents/python_envs/conway_venv/lib/python3.6/site-packages/numpy-1.16.1-py3.6-linux-x86_64.egg" type="simple" />
-            <root url="file://$USER_HOME$/Documents/python_envs/conway_venv/lib/python3.6/site-packages/python_dateutil-2.8.0-py3.6.egg" type="simple" />
-            <root url="file://$USER_HOME$/Documents/python_envs/conway_venv/lib/python3.6/site-packages/pyparsing-2.3.1-py3.6.egg" type="simple" />
-            <root url="file://$USER_HOME$/Documents/python_envs/conway_venv/lib/python3.6/site-packages/kiwisolver-1.0.1-py3.6-linux-x86_64.egg" type="simple" />
-            <root url="file://$USER_HOME$/Documents/python_envs/conway_venv/lib/python3.6/site-packages/cycler-0.10.0-py3.6.egg" type="simple" />
-            <root url="file://$USER_HOME$/Documents/python_envs/conway_venv/lib/python3.6/site-packages/six-1.12.0-py3.6.egg" type="simple" />
-            <root url="file://$USER_HOME$/.PyCharmCE2018.3/system/python_stubs/-451386796" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
-          </root>
-        </classPath>
-        <sourcePath>
-          <root type="composite" />
-        </sourcePath>
-      </roots>
-      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/Documents/github/conways-game-of-life" />
-    </jdk>
-    <jdk version="2">
-      <name value="Python 3.6 (test_env)" />
-      <type value="Python SDK" />
-      <version value="Python 3.6.7" />
-      <homePath value="$USER_HOME$/Documents/python_envs/test_env/bin/python3" />
-      <roots>
-        <classPath>
-          <root type="composite">
-            <root url="file:///usr/lib/python3.6" type="simple" />
-            <root url="file:///usr/lib/python3.6/lib-dynload" type="simple" />
-            <root url="file://$USER_HOME$/Documents/python_envs/test_env/lib/python3.6/site-packages" type="simple" />
-            <root url="file://$USER_HOME$/Documents/python_envs/test_env/lib/python3.6/site-packages/matplotlib-3.0.2-py3.6-linux-x86_64.egg" type="simple" />
-            <root url="file://$USER_HOME$/Documents/python_envs/test_env/lib/python3.6/site-packages/numpy-1.16.1-py3.6-linux-x86_64.egg" type="simple" />
-            <root url="file://$USER_HOME$/Documents/python_envs/test_env/lib/python3.6/site-packages/python_dateutil-2.8.0-py3.6.egg" type="simple" />
-            <root url="file://$USER_HOME$/Documents/python_envs/test_env/lib/python3.6/site-packages/pyparsing-2.3.1-py3.6.egg" type="simple" />
-            <root url="file://$USER_HOME$/Documents/python_envs/test_env/lib/python3.6/site-packages/kiwisolver-1.0.1-py3.6-linux-x86_64.egg" type="simple" />
-            <root url="file://$USER_HOME$/Documents/python_envs/test_env/lib/python3.6/site-packages/cycler-0.10.0-py3.6.egg" type="simple" />
-            <root url="file://$USER_HOME$/Documents/python_envs/test_env/lib/python3.6/site-packages/six-1.12.0-py3.6.egg" type="simple" />
-            <root url="jar://$USER_HOME$/Documents/python_envs/test_env/lib/python3.6/site-packages/snake-1.0.0-py3.6.egg!/" type="simple" />
-            <root url="file://$USER_HOME$/.PyCharmCE2018.3/system/python_stubs/1920310229" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
-          </root>
-        </classPath>
-        <sourcePath>
-          <root type="composite" />
-        </sourcePath>
-      </roots>
-      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/Documents/python_files" />
-    </jdk>
-    <jdk version="2">
-      <name value="Python 3.6 (shakespeare-lstm)" />
-      <type value="Python SDK" />
-      <version value="Python 3.6.7" />
-      <homePath value="$USER_HOME$/Documents/python_envs/shakespeare-lstm/bin/python" />
-      <roots>
-        <classPath>
-          <root type="composite">
-            <root url="file:///usr/lib/python3.6" type="simple" />
-            <root url="file:///usr/lib/python3.6/lib-dynload" type="simple" />
-            <root url="file://$USER_HOME$/Documents/python_envs/shakespeare-lstm/lib/python3.6/site-packages" type="simple" />
-            <root url="jar://$USER_HOME$/Documents/python_envs/shakespeare-lstm/lib/python3.6/site-packages/setuptools-39.1.0-py3.6.egg!/" type="simple" />
-            <root url="file://$USER_HOME$/Documents/python_envs/shakespeare-lstm/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg" type="simple" />
-            <root url="file://$USER_HOME$/Documents/python_envs/shakespeare-lstm/lib/python3.6/site-packages/setuptools_git-1.2-py3.6.egg" type="simple" />
-            <root url="file://$USER_HOME$/Documents/python_envs/shakespeare-lstm/lib/python3.6/site-packages/tensorflow-1.13.1-py3.6-linux-x86_64.egg" type="simple" />
-            <root url="file://$USER_HOME$/Documents/python_envs/shakespeare-lstm/lib/python3.6/site-packages/numpy-1.16.2-py3.6-linux-x86_64.egg" type="simple" />
-            <root url="file://$USER_HOME$/Documents/python_envs/shakespeare-lstm/lib/python3.6/site-packages/nltk-3.4-py3.6.egg" type="simple" />
-            <root url="file://$USER_HOME$/Documents/python_envs/shakespeare-lstm/lib/python3.6/site-packages/Keras-2.2.4-py3.6.egg" type="simple" />
-            <root url="file://$USER_HOME$/Documents/python_envs/shakespeare-lstm/lib/python3.6/site-packages/wheel-0.33.1-py3.6.egg" type="simple" />
-            <root url="jar://$USER_HOME$/Documents/python_envs/shakespeare-lstm/lib/python3.6/site-packages/termcolor-1.1.0-py3.6.egg!/" type="simple" />
-            <root url="file://$USER_HOME$/Documents/python_envs/shakespeare-lstm/lib/python3.6/site-packages/tensorflow_estimator-1.13.0-py3.6.egg" type="simple" />
-            <root url="file://$USER_HOME$/Documents/python_envs/shakespeare-lstm/lib/python3.6/site-packages/tensorboard-1.13.0-py3.6.egg" type="simple" />
-            <root url="file://$USER_HOME$/Documents/python_envs/shakespeare-lstm/lib/python3.6/site-packages/six-1.12.0-py3.6.egg" type="simple" />
-            <root url="file://$USER_HOME$/Documents/python_envs/shakespeare-lstm/lib/python3.6/site-packages/protobuf-3.7.0-py3.6-linux-x86_64.egg" type="simple" />
-            <root url="file://$USER_HOME$/Documents/python_envs/shakespeare-lstm/lib/python3.6/site-packages/Keras_Preprocessing-1.0.9-py3.6.egg" type="simple" />
-            <root url="file://$USER_HOME$/Documents/python_envs/shakespeare-lstm/lib/python3.6/site-packages/Keras_Applications-1.0.7-py3.6.egg" type="simple" />
-            <root url="file://$USER_HOME$/Documents/python_envs/shakespeare-lstm/lib/python3.6/site-packages/grpcio-1.19.0-py3.6-linux-x86_64.egg" type="simple" />
-            <root url="jar://$USER_HOME$/Documents/python_envs/shakespeare-lstm/lib/python3.6/site-packages/gast-0.2.2-py3.6.egg!/" type="simple" />
-            <root url="file://$USER_HOME$/Documents/python_envs/shakespeare-lstm/lib/python3.6/site-packages/astor-0.7.1-py3.6.egg" type="simple" />
-            <root url="file://$USER_HOME$/Documents/python_envs/shakespeare-lstm/lib/python3.6/site-packages/absl_py-0.7.0-py3.6.egg" type="simple" />
-            <root url="file://$USER_HOME$/Documents/python_envs/shakespeare-lstm/lib/python3.6/site-packages/singledispatch-3.4.0.3-py3.6.egg" type="simple" />
-            <root url="file://$USER_HOME$/Documents/python_envs/shakespeare-lstm/lib/python3.6/site-packages/scipy-1.2.1-py3.6-linux-x86_64.egg" type="simple" />
-            <root url="jar://$USER_HOME$/Documents/python_envs/shakespeare-lstm/lib/python3.6/site-packages/PyYAML-5.1b3-py3.6-linux-x86_64.egg!/" type="simple" />
-            <root url="file://$USER_HOME$/Documents/python_envs/shakespeare-lstm/lib/python3.6/site-packages/h5py-2.9.0-py3.6-linux-x86_64.egg" type="simple" />
-            <root url="file://$USER_HOME$/Documents/python_envs/shakespeare-lstm/lib/python3.6/site-packages/mock-2.0.0-py3.6.egg" type="simple" />
-            <root url="file://$USER_HOME$/Documents/python_envs/shakespeare-lstm/lib/python3.6/site-packages/Werkzeug-0.14.1-py3.6.egg" type="simple" />
-            <root url="file://$USER_HOME$/Documents/python_envs/shakespeare-lstm/lib/python3.6/site-packages/Markdown-3.0.1-py3.6.egg" type="simple" />
-            <root url="file://$USER_HOME$/Documents/python_envs/shakespeare-lstm/lib/python3.6/site-packages/pbr-5.1.3-py3.6.egg" type="simple" />
-            <root url="file://$USER_HOME$/Documents/python_envs/shakespeare-lstm/lib/python3.6/site-packages/shakespeare_lstm-1.0.0-py3.6.egg" type="simple" />
-            <root url="file://$USER_HOME$/.PyCharmCE2018.3/system/python_stubs/511407363" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
-          </root>
-        </classPath>
-        <sourcePath>
-          <root type="composite" />
-        </sourcePath>
-      </roots>
-      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/Documents/github/shakespeare-lstm" />
-    </jdk>
-    <jdk version="2">
-      <name value="Python 3.7 (base_python_37_env)" />
-      <type value="Python SDK" />
-      <homePath value="$USER_HOME$/Documents/python_envs/base_python_37_env/bin/python" />
-      <roots>
-        <classPath>
-          <root type="composite">
-            <root url="file:///usr/lib/python3.7" type="simple" />
-            <root url="file:///usr/lib/python3.7/lib-dynload" type="simple" />
-            <root url="file://$USER_HOME$/Documents/python_envs/base_python_37_env/lib/python3.7/site-packages" type="simple" />
-            <root url="file://$USER_HOME$/Documents/python_envs/base_python_37_env/lib/python3.7/site-packages/matplotlib-3.0.3-py3.7-linux-x86_64.egg" type="simple" />
-            <root url="file://$USER_HOME$/Documents/python_envs/base_python_37_env/lib/python3.7/site-packages/numpy-1.16.2-py3.7-linux-x86_64.egg" type="simple" />
-            <root url="file://$USER_HOME$/Documents/python_envs/base_python_37_env/lib/python3.7/site-packages/python_dateutil-2.8.0-py3.7.egg" type="simple" />
-            <root url="file://$USER_HOME$/Documents/python_envs/base_python_37_env/lib/python3.7/site-packages/pyparsing-2.3.1-py3.7.egg" type="simple" />
-            <root url="file://$USER_HOME$/Documents/python_envs/base_python_37_env/lib/python3.7/site-packages/kiwisolver-1.0.1-py3.7-linux-x86_64.egg" type="simple" />
-            <root url="file://$USER_HOME$/Documents/python_envs/base_python_37_env/lib/python3.7/site-packages/cycler-0.10.0-py3.7.egg" type="simple" />
-            <root url="file://$USER_HOME$/Documents/python_envs/base_python_37_env/lib/python3.7/site-packages/six-1.12.0-py3.7.egg" type="simple" />
-            <root url="file://$USER_HOME$/.PyCharmCE2019.1/system/python_stubs/427301719" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
-          </root>
-        </classPath>
-        <sourcePath>
-          <root type="composite" />
-        </sourcePath>
-      </roots>
-      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/Documents/python_files" />
-    </jdk>
-    <jdk version="2">
-      <name value="Python 3.7 (growth-venv)" />
-      <type value="Python SDK" />
-      <version value="Python 3.7.3" />
-      <homePath value="$USER_HOME$/Documents/python_envs/growth-venv/bin/python3" />
-      <roots>
-        <classPath>
-          <root type="composite">
-            <root url="file:///usr/lib/python3.7" type="simple" />
-            <root url="file:///usr/lib/python3.7/lib-dynload" type="simple" />
-            <root url="file://$USER_HOME$/Documents/python_envs/growth-venv/lib/python3.7/site-packages" type="simple" />
-            <root url="file://$USER_HOME$/Documents/gi/gi_python" type="simple" />
-            <root url="file://$USER_HOME$/Documents/gi/gi_fs" type="simple" />
-            <root url="file://$USER_HOME$/.PyCharmCE2019.3/system/python_stubs/584109512" type="simple" />
+            <root url="file:///opt/miniconda3/envs/gi_python/lib/python3.6" type="simple" />
+            <root url="file:///opt/miniconda3/envs/gi_python/lib/python3.6/lib-dynload" type="simple" />
+            <root url="file:///opt/miniconda3/envs/gi_python/lib/python3.6/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharmCE2019.3/python_stubs/-1170225974" type="simple" />
             <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
             <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3" type="simple" />
             <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2and3" type="simple" />
@@ -259,21 +456,20 @@
           <root type="composite" />
         </sourcePath>
       </roots>
-      <additional />
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/repos/gi_python" />
     </jdk>
     <jdk version="2">
-      <name value="Python 3.7 (gi_env)" />
+      <name value="Python 3.6 (matching_dataset)" />
       <type value="Python SDK" />
-      <version value="Python 3.7.3" />
-      <homePath value="$USER_HOME$/Documents/python_envs/gi_env/bin/python3" />
+      <version value="Python 3.6.10" />
+      <homePath value="/opt/miniconda3/envs/matching_dataset/bin/python" />
       <roots>
         <classPath>
           <root type="composite">
-            <root url="file:///usr/lib/python3.7" type="simple" />
-            <root url="file:///usr/lib/python3.7/lib-dynload" type="simple" />
-            <root url="file://$USER_HOME$/Documents/python_envs/gi_env/lib/python3.7/site-packages" type="simple" />
-            <root url="jar://$USER_HOME$/Documents/python_envs/gi_env/lib/python3.7/site-packages/gi_fs-1.1.5-py3.7.egg!/" type="simple" />
-            <root url="file://$USER_HOME$/.PyCharmCE2019.3/system/python_stubs/-2091371163" type="simple" />
+            <root url="file:///opt/miniconda3/envs/matching_dataset/lib/python3.6" type="simple" />
+            <root url="file:///opt/miniconda3/envs/matching_dataset/lib/python3.6/lib-dynload" type="simple" />
+            <root url="file:///opt/miniconda3/envs/matching_dataset/lib/python3.6/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharmCE2019.3/python_stubs/1395516781" type="simple" />
             <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
             <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3" type="simple" />
             <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2and3" type="simple" />
@@ -285,7 +481,255 @@
           <root type="composite" />
         </sourcePath>
       </roots>
-      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/Documents/gi" />
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/repos" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7 (test)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.16" />
+      <homePath value="$USER_HOME$/PycharmProjects/test/venv/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/PycharmProjects/test/venv/lib/python2.7" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/test/venv/lib/python2.7/lib-dynload" type="simple" />
+            <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7" type="simple" />
+            <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" type="simple" />
+            <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk" type="simple" />
+            <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" type="simple" />
+            <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/test/venv/lib/python2.7/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharmCE2019.3/python_stubs/682082995" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PycharmProjects/test" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6 (flamingadr)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.10" />
+      <homePath value="/opt/miniconda3/envs/flamingadr/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///opt/miniconda3/envs/flamingadr/lib/python3.6" type="simple" />
+            <root url="file:///opt/miniconda3/envs/flamingadr/lib/python3.6/lib-dynload" type="simple" />
+            <root url="file:///opt/miniconda3/envs/flamingadr/lib/python3.6/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharmCE2019.3/python_stubs/100422788" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/repos/flamingadr" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6 (gi_analysis_j)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.10" />
+      <homePath value="/opt/miniconda3/envs/gi_analysis_j/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///opt/miniconda3/envs/gi_analysis_j/lib/python3.6" type="simple" />
+            <root url="file:///opt/miniconda3/envs/gi_analysis_j/lib/python3.6/lib-dynload" type="simple" />
+            <root url="file:///opt/miniconda3/envs/gi_analysis_j/lib/python3.6/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/repos/gi_shap" type="simple" />
+            <root url="file://$USER_HOME$/repos/mripython" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharmCE2019.3/python_stubs/457993087" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/repos/augmented_adr" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6 (gi_data_process)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.10" />
+      <homePath value="/opt/miniconda3/envs/gi_data_process/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///opt/miniconda3/envs/gi_data_process/lib/python3.6" type="simple" />
+            <root url="file:///opt/miniconda3/envs/gi_data_process/lib/python3.6/lib-dynload" type="simple" />
+            <root url="file:///opt/miniconda3/envs/gi_data_process/lib/python3.6/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/repos/gi_data_process" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharmCE2019.3/python_stubs/-1048685108" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/repos/gi_data_process" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6 (gi_feature_relevance)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.10" />
+      <homePath value="/opt/miniconda3/envs/gi_feature_relevance/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///opt/miniconda3/envs/gi_feature_relevance/lib/python3.6" type="simple" />
+            <root url="file:///opt/miniconda3/envs/gi_feature_relevance/lib/python3.6/lib-dynload" type="simple" />
+            <root url="file:///opt/miniconda3/envs/gi_feature_relevance/lib/python3.6/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharmCE2019.3/python_stubs/-550380464" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/repos/gi_feature_relevance" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6 (gi_analysis_k)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.10" />
+      <homePath value="/opt/miniconda3/envs/gi_analysis_k/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///opt/miniconda3/envs/gi_analysis_k/lib/python3.6" type="simple" />
+            <root url="file:///opt/miniconda3/envs/gi_analysis_k/lib/python3.6/lib-dynload" type="simple" />
+            <root url="file:///opt/miniconda3/envs/gi_analysis_k/lib/python3.6/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/repos/mripython" type="simple" />
+            <root url="file://$USER_HOME$/repos/gi_data_process" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharmCE2019.3/python_stubs/587075806" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/repos/gi_shap" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7 (plug)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.17" />
+      <homePath value="/opt/miniconda3/envs/plug/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///opt/miniconda3/envs/plug/lib/python2.7" type="simple" />
+            <root url="file:///opt/miniconda3/envs/plug/lib/python2.7/plat-darwin" type="simple" />
+            <root url="file:///opt/miniconda3/envs/plug/lib/python2.7/plat-mac" type="simple" />
+            <root url="file:///opt/miniconda3/envs/plug/lib/python2.7/plat-mac/lib-scriptpackages" type="simple" />
+            <root url="file:///opt/miniconda3/envs/plug/lib/python2.7/lib-tk" type="simple" />
+            <root url="file:///opt/miniconda3/envs/plug/lib/python2.7/lib-dynload" type="simple" />
+            <root url="file:///opt/miniconda3/envs/plug/lib/python2.7/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharmCE2019.3/python_stubs/1460544277" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/repos/rohan" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7 (proto_plug)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.17" />
+      <homePath value="/opt/miniconda3/envs/proto_plug/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///opt/miniconda3/envs/proto_plug/lib/python2.7" type="simple" />
+            <root url="file:///opt/miniconda3/envs/proto_plug/lib/python2.7/plat-darwin" type="simple" />
+            <root url="file:///opt/miniconda3/envs/proto_plug/lib/python2.7/plat-mac" type="simple" />
+            <root url="file:///opt/miniconda3/envs/proto_plug/lib/python2.7/plat-mac/lib-scriptpackages" type="simple" />
+            <root url="file:///opt/miniconda3/envs/proto_plug/lib/python2.7/lib-tk" type="simple" />
+            <root url="file:///opt/miniconda3/envs/proto_plug/lib/python2.7/lib-dynload" type="simple" />
+            <root url="file:///opt/miniconda3/envs/proto_plug/lib/python2.7/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/repos/mripython" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharmCE2019.3/python_stubs/-1664194882" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/repos/proto_plug" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7 (gi_data_cleaner)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.17" />
+      <homePath value="/opt/miniconda3/envs/gi_data_cleaner/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///opt/miniconda3/envs/gi_data_cleaner/lib/python2.7" type="simple" />
+            <root url="file:///opt/miniconda3/envs/gi_data_cleaner/lib/python2.7/plat-darwin" type="simple" />
+            <root url="file:///opt/miniconda3/envs/gi_data_cleaner/lib/python2.7/plat-mac" type="simple" />
+            <root url="file:///opt/miniconda3/envs/gi_data_cleaner/lib/python2.7/plat-mac/lib-scriptpackages" type="simple" />
+            <root url="file:///opt/miniconda3/envs/gi_data_cleaner/lib/python2.7/lib-tk" type="simple" />
+            <root url="file:///opt/miniconda3/envs/gi_data_cleaner/lib/python2.7/lib-dynload" type="simple" />
+            <root url="file:///opt/miniconda3/envs/gi_data_cleaner/lib/python2.7/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharmCE2019.3/python_stubs/1017199909" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/repos/gi_data_cleaner" />
     </jdk>
   </component>
 </application>

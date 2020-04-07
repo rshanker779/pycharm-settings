@@ -1,9 +1,9 @@
 <toolSet name="External Tools">
   <tool name="black" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
-      <option name="COMMAND" value="$USER_HOME$/Documents/python_envs/base_python_env/bin/black" />
-      <option name="PARAMETERS" value="$FilePath$" />
-      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Documents/python_envs/base_python_env/bin" />
+      <option name="COMMAND" value="/opt/miniconda3/envs/gi_analysis/bin/black" />
+      <option name="PARAMETERS" value="&quot;$FilePath$&quot;" />
+      <option name="WORKING_DIRECTORY" value="/opt/miniconda3/envs/gi_analysis/bin" />
     </exec>
   </tool>
 </toolSet>
