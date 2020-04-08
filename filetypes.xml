@@ -4,7 +4,6 @@
     <extensionMap>
       <mapping pattern=".coveragerc" type="PLAIN_TEXT" />
       <mapping pattern="spark_run_local" type="PLAIN_TEXT" />
-      <mapping ext="ini" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
