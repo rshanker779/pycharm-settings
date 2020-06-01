@@ -6,8 +6,9 @@
       <mapping pattern="part-00003" type="PLAIN_TEXT" />
       <mapping pattern=".part-00000.crc" type="PLAIN_TEXT" />
       <mapping pattern="spark_run_local" type="PLAIN_TEXT" />
-      <mapping pattern="part-00005" type="PLAIN_TEXT" />
       <mapping pattern="part-00000" type="PLAIN_TEXT" />
+      <mapping pattern="part-00005" type="PLAIN_TEXT" />
+      <mapping ext="pstats" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
