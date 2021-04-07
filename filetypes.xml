@@ -12,6 +12,7 @@
       <mapping pattern=".coveragerc" type="PLAIN_TEXT" />
       <mapping pattern=".coverage" type="PLAIN_TEXT" />
       <mapping ext="pstats" type="PLAIN_TEXT" />
+      <mapping ext="log" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
