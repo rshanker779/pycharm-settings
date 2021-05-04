@@ -4,5 +4,17 @@
     <general>
       <evaluation-dialog-mode>CODE_FRAGMENT</evaluation-dialog-mode>
     </general>
+    <debuggers>
+      <debugger id="javascript">
+        <configuration>
+          <custom-object-presentation />
+        </configuration>
+      </debugger>
+      <debugger id="python">
+        <configuration>
+          <option name="simplifiedView" value="false" />
+        </configuration>
+      </debugger>
+    </debuggers>
   </component>
 </application>
