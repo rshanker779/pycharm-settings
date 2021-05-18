@@ -1,6 +1,11 @@
 <application>
   <component name="LangManager">
     <option name="languageName" value="Python" />
+    <option name="languageToProjectMap">
+      <map>
+        <entry key="Python" value="C:\Users\rohan.s\AppData\Roaming\JetBrains\PyCharm2021.1\demo\PyCharmLearningProject" />
+      </map>
+    </option>
   </component>
   <component name="LessonStateBase">
     <option name="map">
@@ -13,12 +18,12 @@
         <entry key="codeassistance.quickpopups" value="NOT_PASSED" />
         <entry key="collapse" value="PASSED" />
         <entry key="comment line" value="PASSED" />
-        <entry key="completion.f.string" value="NOT_PASSED" />
+        <entry key="completion.f.string" value="PASSED" />
         <entry key="context.actions" value="PASSED" />
         <entry key="declaration and usages" value="NOT_PASSED" />
         <entry key="duplicate" value="PASSED" />
-        <entry key="extract method" value="NOT_PASSED" />
-        <entry key="extract variable" value="NOT_PASSED" />
+        <entry key="extract method" value="PASSED" />
+        <entry key="extract variable" value="PASSED" />
         <entry key="file structure" value="NOT_PASSED" />
         <entry key="find in files" value="NOT_PASSED" />
         <entry key="move" value="PASSED" />
@@ -27,10 +32,10 @@
         <entry key="python.debug.workflow" value="NOT_PASSED" />
         <entry key="python.run.configuration" value="NOT_PASSED" />
         <entry key="recent files and locations" value="NOT_PASSED" />
-        <entry key="refactoring menu" value="NOT_PASSED" />
-        <entry key="refactoring.in.place" value="NOT_PASSED" />
-        <entry key="refactoring.quick.fix" value="NOT_PASSED" />
-        <entry key="rename" value="NOT_PASSED" />
+        <entry key="refactoring menu" value="PASSED" />
+        <entry key="refactoring.in.place" value="PASSED" />
+        <entry key="refactoring.quick.fix" value="PASSED" />
+        <entry key="rename" value="PASSED" />
         <entry key="search everywhere" value="NOT_PASSED" />
         <entry key="select" value="PASSED" />
         <entry key="smart completion" value="PASSED" />
