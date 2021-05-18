@@ -12,10 +12,10 @@
       <map>
         <entry key="actions" value="PASSED" />
         <entry key="basic completion" value="PASSED" />
-        <entry key="codeassistance.codeformatting" value="NOT_PASSED" />
+        <entry key="codeassistance.codeformatting" value="PASSED" />
         <entry key="codeassistance.editorcodingassistance" value="NOT_PASSED" />
-        <entry key="codeassistance.parameterinfo" value="NOT_PASSED" />
-        <entry key="codeassistance.quickpopups" value="NOT_PASSED" />
+        <entry key="codeassistance.parameterinfo" value="PASSED" />
+        <entry key="codeassistance.quickpopups" value="PASSED" />
         <entry key="collapse" value="PASSED" />
         <entry key="comment line" value="PASSED" />
         <entry key="completion.f.string" value="PASSED" />
@@ -36,7 +36,7 @@
         <entry key="refactoring.in.place" value="PASSED" />
         <entry key="refactoring.quick.fix" value="PASSED" />
         <entry key="rename" value="PASSED" />
-        <entry key="search everywhere" value="NOT_PASSED" />
+        <entry key="search everywhere" value="PASSED" />
         <entry key="select" value="PASSED" />
         <entry key="smart completion" value="PASSED" />
         <entry key="surround and unwrap" value="PASSED" />
