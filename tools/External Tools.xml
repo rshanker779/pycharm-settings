@@ -3,7 +3,7 @@
     <exec>
       <option name="COMMAND" value="C:\Users\rohan.s\Miniconda3\Scripts\black.exe" />
       <option name="PARAMETERS" value="&quot;$FilePath$&quot; --line-length 120" />
-      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Miniconda3/Scripts" />
+      <option name="WORKING_DIRECTORY" value="C:/Users/rohan.s/Miniconda3/Scripts" />
     </exec>
   </tool>
   <tool name="black_mac" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
