@@ -1,11 +1,6 @@
 <application>
   <component name="LangManager">
     <option name="languageName" value="Python" />
-    <option name="languageToProjectMap">
-      <map>
-        <entry key="Python" value="C:\Users\rohan.s\AppData\Roaming\JetBrains\PyCharm2021.1\demo\PyCharmLearningProject" />
-      </map>
-    </option>
   </component>
   <component name="LessonStateBase">
     <option name="map">
@@ -26,6 +21,13 @@
         <entry key="extract variable" value="PASSED" />
         <entry key="file structure" value="NOT_PASSED" />
         <entry key="find in files" value="NOT_PASSED" />
+        <entry key="git.annotate" value="NOT_PASSED" />
+        <entry key="git.basicworkflow" value="NOT_PASSED" />
+        <entry key="git.changelistsandshelf" value="NOT_PASSED" />
+        <entry key="git.commit" value="NOT_PASSED" />
+        <entry key="git.interactiverebase" value="NOT_PASSED" />
+        <entry key="git.projecthistory" value="NOT_PASSED" />
+        <entry key="git.quickstart" value="NOT_PASSED" />
         <entry key="move" value="PASSED" />
         <entry key="multiple selections" value="PASSED" />
         <entry key="postfix completion" value="PASSED" />
