@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern="zero_input_param_test.json" type="AUTO_DETECTED" />
       <mapping pattern="event_dynamic_meta_cache.json" type="AUTO_DETECTED" />
+      <mapping pattern="bad_current_period.json" type="AUTO_DETECTED" />
       <mapping pattern=".coverage" type="PLAIN_TEXT" />
       <mapping pattern="spark_run_local" type="PLAIN_TEXT" />
       <mapping pattern=".coveragerc" type="PLAIN_TEXT" />
