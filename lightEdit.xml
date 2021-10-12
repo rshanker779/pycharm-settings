@@ -2,7 +2,7 @@
   <component name="LightEdit">
     <option name="sessionFiles">
       <list>
-        <option value="file:///help" />
+        <option value="file:///stop" />
       </list>
     </option>
     <option name="supportedFilePatterns">
@@ -17,6 +17,9 @@
         <option value="*.xml" />
         <option value="*.yml" />
       </list>
+    </option>
+    <option name="frameInfo">
+      <frame x="1930" y="20" width="1260" height="640" />
     </option>
   </component>
 </application>
