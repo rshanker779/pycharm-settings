@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
+    <option name="customScope" value="Project 'dk_datasci_consul_semaphore'" />
+    <option name="defaultScopeName" value="Project 'dk_datasci_consul_semaphore'" />
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="SEARCH_SCOPE" value="Project 'dk_datasci_consul_semaphore'" />
     <mask>*.ipynb</mask>
     <mask>*.txt</mask>
     <mask>*.proto</mask>
