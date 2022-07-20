@@ -1,11 +1,11 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'sports-markets-math'" />
-    <option name="defaultScopeName" value="Project 'sports-markets-math'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="Project 'sports-markets-math'" />
-    <option name="FILE_MASK" value="values.yaml" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.py" />
     <mask>*.ipynb</mask>
     <mask>*.txt</mask>
     <mask>*.proto</mask>
@@ -16,7 +16,7 @@
     <mask>*.pyw</mask>
     <mask>*.json</mask>
     <mask>*.yaml</mask>
-    <mask>*.py</mask>
     <mask>values.yaml</mask>
+    <mask>*.py</mask>
   </component>
 </application>
