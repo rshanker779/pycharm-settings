@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.py" />
+    <option name="FILE_MASK" value="*.tf" />
     <mask>*.ipynb</mask>
     <mask>*.txt</mask>
     <mask>*.proto</mask>
@@ -17,5 +17,6 @@
     <mask>*.yaml</mask>
     <mask>*.toml</mask>
     <mask>*.py</mask>
+    <mask>*.tf</mask>
   </component>
 </application>
