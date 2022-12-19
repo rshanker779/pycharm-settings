@@ -1,0 +1,5 @@
+<application>
+  <component name="Pandoc.Application.Settings">
+    <option name="myPathToImages" value="//wsl$/Ubuntu-20.04/home/rohan/Documents/pysbtech_sports_soccer/import-resources" />
+  </component>
+</application>

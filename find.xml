@@ -1,13 +1,22 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Default Changelist" />
-    <option name="defaultScopeName" value="Default Changelist" />
-    <option name="SEARCH_SCOPE" value="Default Changelist" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.py" />
+    <mask>*.ipynb</mask>
+    <mask>*.txt</mask>
+    <mask>*.proto</mask>
+    <mask>*.sql</mask>
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
-    <mask>*.ipynb</mask>
-    <mask>*.txt</mask>
+    <mask>*.pyw</mask>
+    <mask>*.json</mask>
+    <mask>values.yaml</mask>
+    <mask>*.yaml</mask>
+    <mask>*.toml</mask>
+    <mask>*.tf</mask>
     <mask>*.py</mask>
   </component>
 </application>
