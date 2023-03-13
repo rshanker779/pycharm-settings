@@ -16,6 +16,7 @@
       <mapping pattern="part-00005" type="PLAIN_TEXT" />
       <mapping pattern="part-00001" type="PLAIN_TEXT" />
       <mapping pattern="part-00000" type="PLAIN_TEXT" />
+      <mapping ext="csproj" type="PLAIN_TEXT" />
       <mapping ext="py'" type="PLAIN_TEXT" />
       <mapping ext="log" type="PLAIN_TEXT" />
       <mapping ext="pstats" type="PLAIN_TEXT" />
