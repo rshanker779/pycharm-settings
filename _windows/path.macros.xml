@@ -1,0 +1,5 @@
+<application>
+  <component name="PathMacrosImpl">
+    <macro name="KAFKA_SSL_CONFIG_PATH" value="C:/Users/rohan.s/Documents/pysbtech_playerprops_api/kafkapublic-datascience-sport-user/kafkapublic-datascience-sport-user/pem" />
+  </component>
+</application>

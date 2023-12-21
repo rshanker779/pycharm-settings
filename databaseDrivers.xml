@@ -1,0 +1,11 @@
+<application>
+  <component name="LocalDatabaseDriverManager" version="201">
+    <driver id="mysql.8">
+      <artifact id="MySQL Connector/J 8" name="MySQL Connector/J 8" use="true" />
+    </driver>
+    <driver id="snowflake">
+      <artifact id="jna-platform" name="jna-platform" use="true" version="5.8.0" />
+      <artifact id="Snowflake" name="Snowflake" use="true" version="3.13.10" />
+    </driver>
+  </component>
+</application>
