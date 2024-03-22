@@ -1,5 +1,6 @@
 <application>
   <component name="DateTimeFormatter">
+    <option name="dateFormatPattern" value="yyyy-mm-dd" />
     <option name="overrideSystemDateFormat" value="true" />
   </component>
 </application>
