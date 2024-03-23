@@ -5,12 +5,12 @@
       <mapping pattern="zero_input_param_test.json" type="AUTO_DETECTED" />
       <mapping pattern="event_dynamic_meta_cache.json" type="AUTO_DETECTED" />
       <mapping pattern="bad_current_period.json" type="AUTO_DETECTED" />
-      <mapping pattern=".coverage" type="PLAIN_TEXT" />
       <mapping pattern="spark_run_local" type="PLAIN_TEXT" />
-      <mapping pattern=".sourceignore" type="PLAIN_TEXT" />
       <mapping pattern=".coveragerc" type="PLAIN_TEXT" />
-      <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern=".coverage" type="PLAIN_TEXT" />
+      <mapping pattern=".sourceignore" type="PLAIN_TEXT" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="part-00003" type="PLAIN_TEXT" />
       <mapping pattern=".part-00000.crc" type="PLAIN_TEXT" />
       <mapping pattern="part-00005" type="PLAIN_TEXT" />

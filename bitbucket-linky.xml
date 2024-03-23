@@ -1,0 +1,14 @@
+<application>
+  <component name="BitbucketCloudRegistry">
+    <lookup />
+  </component>
+  <component name="BitbucketServerRegistry">
+    <instances>
+      <instance uuid="1450634e-ca40-371f-b637-c0db5d10abe6" baseUri="https://bitbucket.build.dkinternal.com/" />
+    </instances>
+    <lookup>
+      <record scheme="ssh" hostname="bitbucket.build.dkinternal.com" port="-1" path="/" uuid="1450634e-ca40-371f-b637-c0db5d10abe6" />
+    </lookup>
+  </component>
+  <component name="Instance" id="3677d19b-daa4-4c40-8056-7379af4932a4" version="2023.1.281" />
+</application>
