@@ -2770,7 +2770,6 @@
         </sourcePath>
       </roots>
       <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/Documents/dk_datasci_sports_feature_pipeline" SDK_UUID="a5f608a5-ab2e-455c-9782-a8a9c5aff599" IS_POETRY="true">
-        <PATHS_TO_TRANSFER_ROOT PATH_TO_TRANSFER="file://$USER_HOME$/Documents/dk_datasci_sports_feature_pipeline/src" />
         <setting name="FLAVOR_ID" value="UnixPythonSdkFlavor" />
         <setting name="FLAVOR_DATA" value="{}" />
       </additional>
