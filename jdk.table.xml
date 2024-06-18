@@ -1053,7 +1053,6 @@
             <root url="file://$USER_HOME$/.pyenv/versions/3.11.8/lib/python3.11" type="simple" />
             <root url="file://$USER_HOME$/.pyenv/versions/3.11.8/lib/python3.11/lib-dynload" type="simple" />
             <root url="file://$USER_HOME$/.cache/pypoetry/virtualenvs/dk-datasci-mugs-testing--P_0Gi79-py3.11/lib/python3.11/site-packages" type="simple" />
-            <root url="file://$USER_HOME$/Documents/dk_datasci_mugs_testing/src" type="simple" />
             <root url="file://$USER_HOME$/.cache/JetBrains/PyCharm2024.2/python_stubs/871704792" type="simple" />
             <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" type="simple" />
             <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib" type="simple" />
@@ -1212,6 +1211,7 @@
         </sourcePath>
       </roots>
       <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/Documents/dk_datasci_mugs_testing" SDK_UUID="8c7a5ac3-46cf-401f-827b-48a1d69b4276" IS_POETRY="true">
+        <PATHS_TO_TRANSFER_ROOT PATH_TO_TRANSFER="file://$USER_HOME$/Documents/dk_datasci_mugs_testing/src" />
         <setting name="FLAVOR_ID" value="UnixPythonSdkFlavor" />
         <setting name="FLAVOR_DATA" value="{}" />
       </additional>
