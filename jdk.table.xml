@@ -705,7 +705,6 @@
             <root url="file:///usr/lib/python3.10" type="simple" />
             <root url="file:///usr/lib/python3.10/lib-dynload" type="simple" />
             <root url="file://$USER_HOME$/.cache/pypoetry/virtualenvs/dk-datasci-databricks-0Xzt8wXM-py3.10/lib/python3.10/site-packages" type="simple" />
-            <root url="file://$USER_HOME$/Documents/dk_datasci_databricks/src" type="simple" />
             <root url="file://$USER_HOME$/.cache/JetBrains/PyCharm2024.2/python_stubs/-738395406" type="simple" />
             <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" type="simple" />
             <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib" type="simple" />
