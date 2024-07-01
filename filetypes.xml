@@ -17,6 +17,7 @@
       <mapping pattern="part-00001" type="PLAIN_TEXT" />
       <mapping pattern="part-00000" type="PLAIN_TEXT" />
       <mapping ext="csproj" type="PLAIN_TEXT" />
+      <mapping ext="env" type="PLAIN_TEXT" />
       <mapping ext="py'" type="PLAIN_TEXT" />
       <mapping ext="pstats" type="PLAIN_TEXT" />
       <removed_mapping ext="dockerignore" approved="true" type="DockerIgnore file" />
