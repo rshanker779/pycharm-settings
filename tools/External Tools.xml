@@ -1,0 +1,30 @@
+<toolSet name="External Tools">
+  <tool name="black_windows" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="true" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="C:\Users\rohan.s\Miniconda3\Scripts\black.exe" />
+      <option name="PARAMETERS" value="&quot;$FilePath$&quot; --line-length 120" />
+      <option name="WORKING_DIRECTORY" value="C:/Users/rohan.s/Miniconda3/Scripts" />
+    </exec>
+  </tool>
+  <tool name="black_linux" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="true" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="$USER_HOME$/miniconda3/bin/black" />
+      <option name="PARAMETERS" value="&quot;$FilePath$&quot; --line-length 120" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/" />
+    </exec>
+  </tool>
+  <tool name="black_mac" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="true" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="/opt/miniconda3/envs/gi_analysis/bin/black" />
+      <option name="PARAMETERS" value="&quot;$FilePath$&quot;" />
+      <option name="WORKING_DIRECTORY" value="/opt/miniconda3/envs/gi_analysis/bin" />
+    </exec>
+  </tool>
+  <tool name="black_linux" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="true" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="$USER_HOME$/miniconda3/bin/black" />
+      <option name="PARAMETERS" value="&quot;$FilePath$&quot; --line-length 120" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/" />
+    </exec>
+  </tool>
+</toolSet>

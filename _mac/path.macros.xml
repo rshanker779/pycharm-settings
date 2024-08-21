@@ -1,0 +1,6 @@
+<application>
+  <component name="PathMacrosImpl">
+    <macro name="FLOW_ENV" value="TEST" />
+    <macro name="GI_ENV" value="TEST" />
+  </component>
+</application>

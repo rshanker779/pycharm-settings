@@ -1,0 +1,12 @@
+*.vscode*
+*.idea*
+*__pycache__*
+*.pyc
+*.sql
+build/*
+dist/*
+*.prof
+*.egg-info/*
+docsrc/_build/*
+*.coverage
+htmlcov/*
