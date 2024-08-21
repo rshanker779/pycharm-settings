@@ -10,7 +10,7 @@
     <exec>
       <option name="COMMAND" value="$USER_HOME$/miniconda3/bin/black" />
       <option name="PARAMETERS" value="&quot;$FilePath$&quot; --line-length 120" />
-      <option name="WORKING_DIRECTORY" value="$USER_HOME$/" />
+      <option name="WORKING_DIRECTORY" value="C:/Users/r.shanker/" />
     </exec>
   </tool>
   <tool name="black_mac" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="true" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
@@ -24,7 +24,7 @@
     <exec>
       <option name="COMMAND" value="$USER_HOME$/miniconda3/bin/black" />
       <option name="PARAMETERS" value="&quot;$FilePath$&quot; --line-length 120" />
-      <option name="WORKING_DIRECTORY" value="$USER_HOME$/" />
+      <option name="WORKING_DIRECTORY" value="C:/Users/r.shanker/" />
     </exec>
   </tool>
 </toolSet>
