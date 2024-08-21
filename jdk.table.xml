@@ -189,5 +189,38 @@
         </targetEnvironmentConfiguration>
       </additional>
     </jdk>
+    <jdk version="2">
+      <name value="Python 3.10.12 WSL (Ubuntu): (/home/rohan/.cache/pypoetry/virtualenvs/dk-datasci-scripts-XfyElZmM-py3.10/bin/python3.10)" />
+      <type value="Python SDK" />
+      <version value="Python 3.10.12" />
+      <homePath value="/home/rohan/.cache/pypoetry/virtualenvs/dk-datasci-scripts-XfyElZmM-py3.10/bin/python3.10" />
+      <roots>
+        <classPath>
+          <root type="composite" />
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional SDK_UUID="63698c32-3c6a-486e-a70d-a07fdd490b93" INTERPRETER_PATH="/home/rohan/.cache/pypoetry/virtualenvs/dk-datasci-scripts-XfyElZmM-py3.10/bin/python3.10" HELPERS_PATH="" VALID="true" RUN_AS_ROOT_VIA_SUDO="false">
+        <setting name="FLAVOR_ID" value="VirtualEnvSdkFlavor" />
+        <setting name="FLAVOR_DATA" value="{}" />
+        <PathMappingSettings>
+          <option name="pathMappings">
+            <list>
+              <mapping local-root="$USER_HOME$/AppData/Local/JetBrains/PyCharm2024.2/remote_sources/-1988211129/1952936618" remote-root="/usr/lib/python3.10" />
+              <mapping local-root="$USER_HOME$/AppData/Local/JetBrains/PyCharm2024.2/remote_sources/-1988211129/-1116162126" remote-root="/usr/lib/python3.10/lib-dynload" />
+              <mapping local-root="$USER_HOME$/AppData/Local/JetBrains/PyCharm2024.2/remote_sources/-1988211129/-176036664" remote-root="/home/rohan/.cache/pypoetry/virtualenvs/dk-datasci-scripts-XfyElZmM-py3.10/lib/python3.10/site-packages" />
+            </list>
+          </option>
+        </PathMappingSettings>
+        <targetEnvironmentConfiguration name="WSL - Ubuntu" type="wsl">
+          <config>
+            <option name="distributionMsId" value="Ubuntu" />
+            <option name="projectRootOnTarget" value="{exitCode=0, timeout=false, cancelled=false, stdout=/tmp/tmp.Ub05MlawfL&#10;, stderr=}/scripts" />
+          </config>
+        </targetEnvironmentConfiguration>
+      </additional>
+    </jdk>
   </component>
 </application>
