@@ -13,5 +13,6 @@
     <entry key="actionSystem.win.suppressAlt" value="false" />
     <entry key="debugger.new.tool.window.layout" value="true" />
     <entry key="editor.minimap.enabled" value="true" />
+    <entry key="moved.to.new.ui" value="true" />
   </component>
 </application>
