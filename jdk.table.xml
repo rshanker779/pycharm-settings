@@ -2604,13 +2604,13 @@
     <jdk version="2">
       <name value="Poetry (dk_datasci_ci_tools)" />
       <type value="Python SDK" />
-      <version value="Python 3.10.12" />
+      <version value="Python 3.10.13" />
       <homePath value="$USER_HOME$/.cache/pypoetry/virtualenvs/dk-datasci-ci-tools-ubXAMVkH-py3.10/bin/python" />
       <roots>
         <classPath>
           <root type="composite">
-            <root url="file:///usr/lib/python3.10" type="simple" />
-            <root url="file:///usr/lib/python3.10/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/.pyenv/versions/3.10.13/lib/python3.10" type="simple" />
+            <root url="file://$USER_HOME$/.pyenv/versions/3.10.13/lib/python3.10/lib-dynload" type="simple" />
             <root url="file://$USER_HOME$/.cache/pypoetry/virtualenvs/dk-datasci-ci-tools-ubXAMVkH-py3.10/lib/python3.10/site-packages" type="simple" />
             <root url="file://$USER_HOME$/.cache/JetBrains/PyCharm2024.2/python_stubs/781274688" type="simple" />
             <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
