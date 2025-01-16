@@ -4,7 +4,6 @@
     <option name="processCloseConfirmation" value="TERMINATE" />
   </component>
   <component name="Registry">
-    <entry key="i18n.locale" value="" />
     <entry key="ide.experimental.ui" value="true" />
   </component>
 </application>
