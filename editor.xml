@@ -24,6 +24,11 @@
     </option>
   </component>
   <component name="EditorSettings">
+    <option name="languageStickyLines">
+      <map>
+        <entry key="Jupyter" value="false" />
+      </map>
+    </option>
     <option name="SOFT_WRAP_FILE_MASKS" value="*.md; *.txt; *.rst; *.adoc" />
     <option name="ENABLE_RENDERED_DOC" value="true" />
     <option name="IS_WHITESPACES_SHOWN" value="true" />
