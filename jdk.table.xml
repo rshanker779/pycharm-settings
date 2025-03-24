@@ -3976,7 +3976,6 @@
         </sourcePath>
       </roots>
       <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/Documents/dk_datasci_trading_intelligence" SDK_UUID="a44ea131-7b47-44d3-9cdc-7bcc0ce8ad43">
-        <PATHS_TO_TRANSFER_ROOT PATH_TO_TRANSFER="file://$USER_HOME$/Documents/dk_datasci_trading_intelligence/src" />
         <setting name="FLAVOR_ID" value="UnknownFlavor" />
         <setting name="FLAVOR_DATA" value="{}" />
       </additional>
